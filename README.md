@@ -1,6 +1,6 @@
-# startbit
+# AsrBit
 
-Blocks for Hiwonder startbit
+Blocks for Speech Recognition Module
 ## License
 
 MIT
